@@ -1,0 +1,103 @@
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.deps.json
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.runtimeconfig.json
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.runtimeconfig.dev.json
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.Views.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.Views.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.csproj.CoreCompileInputs.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorAssemblyInfo.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorAssemblyInfo.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.AssemblyInfoInputs.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.AssemblyInfo.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.TagHelpers.input.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.TagHelpers.output.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorCoreGenerate.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorTargetAssemblyInfo.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorTargetAssemblyInfo.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.Views.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.csproj.CopyComplete
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.csprojAssemblyReference.cache
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.csproj.CoreCompileInputs.cache
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorAssemblyInfo.cache
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorAssemblyInfo.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.AssemblyInfoInputs.cache
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.AssemblyInfo.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.deps.json
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.runtimeconfig.json
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.runtimeconfig.dev.json
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.dll
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.pdb
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.Views.dll
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.Views.pdb
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.dll
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.pdb
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.TagHelpers.input.cache
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.TagHelpers.output.cache
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorCoreGenerate.cache
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorTargetAssemblyInfo.cache
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorTargetAssemblyInfo.cs
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.Views.pdb
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.csproj.CopyComplete
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.dll
+E:\Shilpa\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.deps.json
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.runtimeconfig.json
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.runtimeconfig.dev.json
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.Views.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Web.Views.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.csprojAssemblyReference.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.csproj.CoreCompileInputs.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorAssemblyInfo.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorAssemblyInfo.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.AssemblyInfoInputs.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.AssemblyInfo.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.TagHelpers.input.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.TagHelpers.output.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorCoreGenerate.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorTargetAssemblyInfo.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.RazorTargetAssemblyInfo.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.Views.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.csproj.CopyComplete
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\Stock Management .net Core\obj\Debug\netcoreapp2.1\StockMarket.Web.pdb

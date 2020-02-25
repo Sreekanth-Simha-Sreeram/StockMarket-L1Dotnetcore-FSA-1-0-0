@@ -1,0 +1,67 @@
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csprojAssemblyReference.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csproj.CoreCompileInputs.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.AssemblyInfoInputs.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.AssemblyInfo.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.deps.json
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.runtimeconfig.json
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.runtimeconfig.dev.json
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csproj.CopyComplete
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.pdb
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csprojAssemblyReference.cache
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csproj.CoreCompileInputs.cache
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.AssemblyInfoInputs.cache
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.AssemblyInfo.cs
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.deps.json
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.runtimeconfig.json
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.runtimeconfig.dev.json
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.pdb
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.pdb
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.pdb
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csproj.CopyComplete
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.pdb
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.deps.json
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.runtimeconfig.json
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.runtimeconfig.dev.json
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Tests.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.BusinessLayer.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\StockMarket.DataLayer.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\bin\Debug\netcoreapp2.1\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csprojAssemblyReference.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csproj.CoreCompileInputs.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.AssemblyInfoInputs.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.AssemblyInfo.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.csproj.CopyComplete
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Tests\obj\Debug\netcoreapp2.1\StockMarket.Tests.pdb

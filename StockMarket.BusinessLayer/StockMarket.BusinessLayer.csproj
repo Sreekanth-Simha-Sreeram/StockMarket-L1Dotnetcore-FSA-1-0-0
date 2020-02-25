@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StockMarket.DataLayer\StockMarket.DataLayer.csproj" />
+    <ProjectReference Include="..\StockMarket.Entities\StockMarket.Entities.csproj" />
+  </ItemGroup>
+
+</Project>

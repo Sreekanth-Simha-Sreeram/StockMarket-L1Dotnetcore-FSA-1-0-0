@@ -1,0 +1,25 @@
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.deps.json
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.csproj.CoreCompileInputs.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.AssemblyInfoInputs.cache
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.AssemblyInfo.cs
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.dll
+C:\Users\shilpa\source\repos\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.deps.json
+E:\Shilpa\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.AssemblyInfo.cs
+E:\Shilpa\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.deps.json
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\bin\Debug\netcoreapp2.1\StockMarket.Entities.pdb
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.csprojAssemblyReference.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.csproj.CoreCompileInputs.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.AssemblyInfoInputs.cache
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.AssemblyInfo.cs
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.dll
+E:\Shilpa\TestCase Projects\Stock Management .net Core\StockMarket.Entities\obj\Debug\netcoreapp2.1\StockMarket.Entities.pdb
